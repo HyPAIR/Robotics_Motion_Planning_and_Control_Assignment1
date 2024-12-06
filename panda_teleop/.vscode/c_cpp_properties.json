@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/weijian/advanced_robotics/install/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/weijian/advanced_robotics/src/angles/angles/include/**",
+        "/home/weijian/advanced_robotics/src/gazebo_ros2_control/gazebo_ros2_control/include/**",
+        "/home/weijian/advanced_robotics/src/realtime_tools/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_control/controller_interface/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_control/controller_manager/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_control/hardware_interface/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_control/ros2_control_test_assets/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_control/transmission_interface/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/diff_drive_controller/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/effort_controllers/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/force_torque_sensor_broadcaster/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/forward_command_controller/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/gripper_controllers/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/imu_sensor_broadcaster/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/joint_state_broadcaster/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/joint_trajectory_controller/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/position_controllers/include/**",
+        "/home/weijian/advanced_robotics/src/ros-controls/ros2_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

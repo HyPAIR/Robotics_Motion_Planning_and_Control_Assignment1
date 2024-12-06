@@ -1,0 +1,14 @@
+build/*
+*kdev4
+*~
+*pyc
+**/build/*
+.build/*
+.pixi/*
+
+.DS_Store
+*.txt.user*
+.idea/*
+
+.vs/*
+CMakeSettings.json

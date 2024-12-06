@@ -1,0 +1,33 @@
+repositories:
+  ros-controls/ros2_control:
+    type: git
+    url: https://github.com/ros-controls/ros2_control.git
+    version: foxy
+  control_msgs:
+    type: git
+    url: https://github.com/ros-controls/control_msgs.git
+    version: foxy-devel
+  realtime_tools:
+    type: git
+    url: https://github.com/ros-controls/realtime_tools.git
+    version: foxy-devel
+  angles:
+    type: git
+    url: https://github.com/ros/angles.git
+    version: ros2
+  gazebo_ros2_control:
+    type: git
+    url: https://github.com/ros-simulation/gazebo_ros2_control.git
+    version: foxy
+  ros-controls/ros2_controllers:
+    type: git
+    url: https://github.com/nicholaspalomo/ros2_controllers
+    version: effort_group_position_controller
+  panda_teleop:
+    type: git
+    url: https://github.com/nicholaspalomo/panda_teleop.git
+    version: main
+  idyntree:
+    type: git
+    url: https://github.com/robotology/idyntree
+    version: master
